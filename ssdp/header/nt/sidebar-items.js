@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["NT","Represents a header used to specify a notification type."]]});

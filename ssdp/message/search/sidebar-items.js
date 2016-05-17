@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["SearchListener","Search listener that can listen for search messages sent within the network."],["SearchRequest","Search request that can be sent via unicast or multicast to devices on the network."],["SearchResponse","Search response that can be received or sent via unicast to devices on the network."]]});

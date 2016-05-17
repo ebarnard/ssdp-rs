@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["SearchPort","Represents a header used to specify a unicast port to send search requests to."]]});
